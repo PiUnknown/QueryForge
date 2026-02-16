@@ -1,4 +1,5 @@
-# Multi-Document Research RAG System
+# QueryForge
+
 
 > A production-ready Retrieval-Augmented Generation system built to solve the problem of efficiently querying and synthesizing information from large collections of research papers. Built with empirical evaluation and designed for zero-cost deployment.
 
@@ -353,7 +354,7 @@ streamlit run app.py
 | Query (Retrieval Only) | <1s | Semantic search |
 | Query (Full RAG) | 3-5s | Includes LLM generation |
 
-**Hardware**: Tests run on consumer laptop (16GB RAM, Intel i7, no GPU)
+**Hardware**: Tests run on consumer laptop (16GB RAM, Intel i5, NVIDIA GTX 1650)
 
 ---
 
